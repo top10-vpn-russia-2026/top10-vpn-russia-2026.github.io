@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://top10-vpn-russia-2026.github.io/sitemap.xml

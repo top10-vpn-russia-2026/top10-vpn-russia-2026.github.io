@@ -1,0 +1,19 @@
+{
+  "name": "VPN-EXPERT",
+  "short_name": "VPN-EXPERT",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1f0707",
+  "background_color": "#090202",
+  "display": "standalone"
+}
